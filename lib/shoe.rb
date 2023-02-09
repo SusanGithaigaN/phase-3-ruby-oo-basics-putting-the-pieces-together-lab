@@ -12,9 +12,3 @@ class Shoe
         @condition = "new"
     end        
 end  
-
-# shoe = Shoe.new
-# shoe.condition = "new" 
-# puts shoe.condition
-# shoe.cobble
-# binding.pry
